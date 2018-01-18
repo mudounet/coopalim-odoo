@@ -1,3 +1,3 @@
-id,name,type,categ_id/id,standard_price,price,purchase_ok,sale_ok,weight,volume
-FRAI00001,Article périssable,Produit stockable,__export__.product_category_3,4,6,True,True,0.5,0.25
-SEC000001,Produit sec,Produit stockable,__export__.product_category_4,4,6,True,True,1.0,6.0
+id,name,type,categ_id/id,standard_price,price,purchase_ok,sale_ok,weight,volume,route_ids/id
+FRAI00001,Article périssable,Produit stockable,__export__.product_category_3,4,6,True,True,0.5,0.25,stock.route_warehouse0_mto
+SEC000001,Produit sec,Produit stockable,__export__.product_category_4,4,6,True,True,1.0,6.0,stock.route_warehouse0_mto

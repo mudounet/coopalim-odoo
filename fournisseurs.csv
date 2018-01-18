@@ -1,0 +1,3 @@
+id,active,zip,property_supplier_payment_term_id/id,email,supplier,is_company,lang,mobile,name
+BOULANGER_TEST,True,,account.account_payment_term_15days,,True,False,,,Boulanger
+FOURNISSEUR_TEST_BIO,True,67100,,test@contact.com,True,True,fr_FR,07 14 12 34 56 79,Société bio test
