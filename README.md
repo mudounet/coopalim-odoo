@@ -7,11 +7,11 @@
  - Telecharger la machine virtuelle depuis le site bitnami
  - Installer le logiciel de virtualisation (j'ai réussi a lancer la machine avec VMWare Worstation Player 14)
 
-### Changer le clavier
+### Activer SSH
 
-Use the dpkg-reconfigure tool to change the keyboard layout, with the command below:
-
-  sudo dpkg-reconfigure keyboard-configuration
+sudo rm -f /etc/ssh/sshd_not_to_be_run
+sudo systemctl enable ssh
+sudo systemctl start ssh
 
 ### Retrouver le mot de passe par défaut
 
