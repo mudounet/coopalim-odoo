@@ -19,7 +19,14 @@ For security reasons the master password is randomly generated during the instal
 
   admin_passwd = PASSWORD
 
+### Changer la langue
 
+La langue par défaut est l'anglais. Il est possible de passer en français:
+ - Cliquer sur Settings > Translations > Load translation
+   - Sélectionner la langue "French / français"
+ - Cliquer sur administrator > Language > French
+ - L'interface devrait passer en français
+ 
 ### Installation des modules
  
  Par défaut, il n'est pas possible de rentrer des données. Il faut donc:
@@ -30,13 +37,10 @@ For security reasons the master password is randomly generated during the instal
     - Gestion de la facturation : Envoyer les factures et suivre les paiements
     - Gestion des achats : Bons de commande, Reçus, Factures des Fournisseurs
 
-### Changer la langue
+### Installation de la localisation comptable
 
-La langue par défaut est l'anglais. Il est possible de passer en français:
- - Cliquer sur Settings > Translations > Load translation
-   - Sélectionner la langue "French / français"
- - Cliquer sur administrator > Language > French
- - L'interface devrait passer en français
+ - Configuration > Facturation > Localisation Comptable > Installer plus de localisations comptables
+ - Sélectionner l'extension "Comptabilité - France"
    
 ## Configuration des modules
 
