@@ -16,3 +16,17 @@
     - Sales Management (Quotation, Sales Orders, Invoicing)
     - Invoicing Management (Send invoice and track payments)
     - Purchase management (Purchase orders, receipts, vendor bills)?
+
+### Changer la langue
+
+La langue par défaut est l'anglais. Il est possible de passer en français:
+ - Cliquer sur Configuration > Traductions > Load translation
+   - Sélectionner la langue française
+   
+# Configuration des modules
+
+## Facturation
+
+Taxes > Taxes par défaut :
+ - Sélectionner : "TVA 0% autres opérations non imposables (vente)" : Statut d'une association dont la gestion a un caractère désintéressé et dont l'activité n'est pas exercée en concurrence avec des entreprises du secteur lucratif, ni dans des conditions similaires à ces entreprises (article 293E du CGI).
+ - Sélectionner 
