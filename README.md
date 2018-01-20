@@ -11,6 +11,8 @@
  
  Par défaut, il n'est pas possible de rentrer des données. Il faut donc:
   - Installer le module de comptabilité du pays concerné (Français)
-  - Installer les modules 
-    - inventaire
-    - ...
+  - Cliquer sur Applications > puis installer les modules suivants:
+    - Inventory management (Inventory, Logistics, Warehousing)
+    - Sales Management (Quotation, Sales Orders, Invoicing)
+    - Invoicing Management (Send invoice and track payments)
+    - Purchase management (Purchase orders, receipts, vendor bills)?
