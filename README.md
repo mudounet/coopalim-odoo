@@ -1,0 +1,1 @@
+# coopalim-odoo
