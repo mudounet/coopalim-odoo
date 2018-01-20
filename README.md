@@ -25,10 +25,10 @@ For security reasons the master password is randomly generated during the instal
  Par défaut, il n'est pas possible de rentrer des données. Il faut donc:
   - Installer le module de comptabilité du pays concerné (Français)
   - Cliquer sur Applications > puis installer les modules suivants:
-    - Inventory management (Inventory, Logistics, Warehousing)
-    - Sales Management (Quotation, Sales Orders, Invoicing)
-    - Invoicing Management (Send invoice and track payments)
-    - Purchase management (Purchase orders, receipts, vendor bills)?
+    - Gestion de l'inventaire : Inventaire, Logistique, Gestion de stock
+    - Gestion des ventes : Devis, commandes, facturation
+    - Gestion de la facturation : Envoyer les factures et suivre les paiements
+    - Gestion des achats : Bons de commande, Reçus, Factures des Fournisseurs
 
 ### Changer la langue
 
