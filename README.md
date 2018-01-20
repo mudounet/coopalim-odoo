@@ -33,8 +33,10 @@ For security reasons the master password is randomly generated during the instal
 ### Changer la langue
 
 La langue par défaut est l'anglais. Il est possible de passer en français:
- - Cliquer sur Configuration > Traductions > Load translation
-   - Sélectionner la langue française
+ - Cliquer sur Settings > Translations > Load translation
+   - Sélectionner la langue "French / français"
+ - Cliquer sur administrator > Language > French
+ - L'interface devrait passer en français
    
 ## Configuration des modules
 
