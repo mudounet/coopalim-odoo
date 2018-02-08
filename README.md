@@ -39,7 +39,7 @@ La langue par défaut est l'anglais. Il est possible de passer en français:
 
 ### Installation de la localisation comptable
 
- - Configuration > Facturation > Localisation Comptable > Installer plus de localisations comptables
+ - Configuration > Paramètres généraux > Facturation > Localisation Comptable > Installer plus de localisations comptables
  - Sélectionner l'extension "Comptabilité - France"
    
 ## Configuration des modules
